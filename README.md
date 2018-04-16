@@ -9,4 +9,4 @@ Ram S
 Kaushal Mittal
 Ayush Yadav
 ## Mentor
-Gopalakrishnan
+Gopal
